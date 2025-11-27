@@ -1,0 +1,14 @@
+{
+  "name": "voice-claude",
+  "version": "1.0.0",
+  "description": "Voice Claude with Edge TTS",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "echo 'No build step needed'"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0"
+  }
+}
